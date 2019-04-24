@@ -1,5 +1,5 @@
 require_relative './spec_helper.rb'
-require_all "rspec-fizzbuzz-dc-web-051319"
+require_relative "../fizzbuzz.rb"
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
 
 describe "fizzbuzz" do
